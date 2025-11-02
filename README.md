@@ -1,9 +1,9 @@
-# 🌿 Moroccan Argan Oil Traceability Graph (Neo4j)
+#  Moroccan Argan Oil Traceability Graph (Neo4j)
 
 A real-world **graph database** modeling the **argan oil value chain in Morocco** —
 from producers and cooperatives to export and clients.
 
-## 🧩 Overview
+##  Overview
 
 This dataset demonstrates how graph databases can ensure **traceability, transparency, and quality assurance** in the Moroccan argan oil sector.
 
@@ -22,7 +22,7 @@ This dataset demonstrates how graph databases can ensure **traceability, transpa
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option 1: Run with Docker (recommended)
 ```bash
@@ -48,7 +48,7 @@ Then try example queries from the `queries/` folder.
 
 ---
 
-## 📊 Example Queries
+##  Example Queries
 
 **Complete traceability of a lot**
 ```cypher
@@ -79,12 +79,14 @@ ORDER BY volume_kg DESC;
 
 ---
 
-## 🧠 Future Extensions
+## Future Extensions
 - Add logistics & transport relations
 - Integrate ONSSA quality data
 - Run community detection with Neo4j GDS
 
 ---
 
-## 📜 License
-MIT License — you are free to use, modify, and share with attribution.
+##  License
+## © Copyright
+© 2025 Ilyas Bentachfine.  
+All rights reserved.  
